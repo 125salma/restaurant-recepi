@@ -1,0 +1,114 @@
+ [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken Salad",
+        "short_description": "A healthy and flavorful salad featuring grilled chicken, fresh vegetables, and a light vinaigrette.",
+        "recipe_image": "../src/images/recepi1.jpg",
+        "ingredients": [
+          "550 g chicken breast",
+          "120 ml olive oil",
+          "200 g mixed salad greens",
+          "100 g cherry tomatoes",
+          "1 cucumber",
+          "50 g feta cheese",
+          "30 ml balsamic vinegar",
+          "2 cloves garlic"
+        ],
+        "preparing_time": 30,
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "recipe_image": "../src/images/recepi2.jpg",
+        "ingredients": [
+          "400 g spaghetti",
+          "200 g pancetta",
+          "4 large eggs",
+          "100 g grated Parmesan cheese",
+          "2 cloves garlic",
+          "30 ml olive oil",
+          "Salt to taste",
+          "Freshly ground black pepper"
+        ],
+        "preparing_time": 25,
+        "calories": "550 calories"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A quick and colorful stir-fry with a variety of fresh vegetables tossed in a savory sauce.",
+        "recipe_image": "../src/images/recepi3.jpg",
+        "ingredients": [
+          "200 g broccoli florets",
+          "150 g bell peppers",
+          "100 g snow peas",
+          "100 g mushrooms",
+          "120 ml soy sauce",
+          "30 ml sesame oil",
+          "2 tbsp cornstarch",
+          "2 cloves garlic",
+          "1 inch ginger"
+        ],
+        "preparing_time": 20,
+        "calories": "250 calories"
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "short_description": "Spicy and savory beef tacos served with fresh toppings in crispy taco shells.",
+        "recipe_image": "../src/images/recepi4.jpg",
+        "ingredients": [
+          "500 g ground beef",
+          "12 taco shells",
+          "100 g lettuce",
+          "100 g cheddar cheese",
+          "100 g tomato",
+          "50 g onion",
+          "30 g taco seasoning",
+          "120 ml sour cream"
+        ],
+        "preparing_time": 35,
+        "calories": "430 calories"
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Lemon Garlic Shrimp",
+        "short_description": "Succulent shrimp sautéed in a buttery lemon garlic sauce.",
+        "recipe_image": "../src/images/recepi5.jpg",
+        "ingredients": [
+          "400 g shrimp",
+          "50 g butter",
+          "3 cloves garlic",
+          "1 lemon",
+          "30 ml olive oil",
+          "30 g fresh parsley",
+          "Salt to taste",
+          "Black pepper to taste"
+        ],
+        "preparing_time": 15,
+        "calories": "220 calories"
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Classic chewy chocolate chip cookies with a golden-brown exterior.",
+        "recipe_image": "../src/images/recepi6.jpg",
+        "ingredients": [
+          "225 g all-purpose flour",
+          "170 g unsalted butter",
+          "150 g granulated sugar",
+          "150 g brown sugar",
+          "2 large eggs",
+          "5 ml vanilla extract",
+          "5 g baking soda",
+          "3 g salt",
+          "300 g chocolate chips"
+        ],
+        "preparing_time": 45,
+        "calories": "150 calories"
+      }
+    ]
+  
+  

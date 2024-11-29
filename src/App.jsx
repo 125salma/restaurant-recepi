@@ -48,12 +48,14 @@ setCookes(result);
   }
 
   return (  
-    <div className='md: max-w-7xl	 mx-auto'>
+    <div className='max-w-7xl	 mx-auto' >
+      <div>
         <Header></Header>
         <Banner></Banner>
+    </div>
         <div className='flex my-14'> 
           <Recepies handleRecepiCount={handleRecepiCount}></Recepies>
-          <Cooking cookes={cookes} setCookes={setCookes} ></Cooking>
+          <Cooking  cookes={cookes} setCookes={setCookes} ></Cooking>
         </div>
         <ToastContainer />
 

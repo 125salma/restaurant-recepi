@@ -7,7 +7,7 @@ const Cooktable = ({cook,handlePreparing}) => {
   
     return (
         <div>
-        <div className="flex items-center bg-slate-100	mt-2">
+        <div className="lg:flex items-center bg-slate-100 mt-2">
             <div >
             <table>
                 <tbody>

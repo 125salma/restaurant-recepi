@@ -1,6 +1,6 @@
 import { CiClock2 } from "react-icons/ci";
 import { AiOutlineFire } from "react-icons/ai";
-
+import './Recepi.css'
 
 
 const Recepi = ({recepi,handleRecepiCount}) => {
@@ -9,7 +9,7 @@ const Recepi = ({recepi,handleRecepiCount}) => {
     const {recipe_id,recipe_image,recipe_name,short_description,ingredients,preparing_time,calories} = recepi;
   
     return (
-        <div className="w-96 border border-gray-300	rounded-3xl mb-4">
+        <div className="cart-width border border-gray-300 rounded-3xl mb-4 mr-4">
             <div className=" p-4">
                 <img className="w-full h-56 rounded-3xl" src={recipe_image} alt="" />
                 <h3 className="text-2xl pt-6 font-bold">{recipe_name}</h3>
@@ -29,7 +29,7 @@ const Recepi = ({recepi,handleRecepiCount}) => {
                     <p className="flex items-center"><AiOutlineFire /> {calories}</p>
                 </div>
 
-                <button onClick={()=>handleRecepiCount(recepi,recipe_id)} className="font-bold  border border-2 p-4 bg-green-500 rounded-full mt-6">Want to Cook</button>
+                <button onClick={()=>handleRecepiCount(recepi,recipe_id)} className=" font-bold  border border-2 p-4 bg-green-500 rounded-full mt-6">Want to Cook</button>
 
             </div>
         </div>

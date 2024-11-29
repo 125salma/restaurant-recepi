@@ -17,7 +17,7 @@ const Cooking = ({cookes,setCookes}) => {
     }
     
     return (
-        <div className=" w-1/3 border border-gray-300 rounded-3xl">
+        <div className="ml-4 md:w-3/6  border border-gray-300 rounded-3xl cook-side p-4">
             <h3 className="text-center text-2xl mb-6 font-bold my-4">Want to Cook: {cookes.length}</h3>
             <hr className="m-6"/>
             <table>

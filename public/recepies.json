@@ -3,7 +3,7 @@
         "recipe_id": 1,
         "recipe_name": "Grilled Chicken Salad",
         "short_description": "A healthy and flavorful salad featuring grilled chicken, fresh vegetables, and a light vinaigrette.",
-        "recipe_image": "../src/images/recepi1.jpg",
+        "recipe_image": "https://i.imghippo.com/files/ciJ1798ME.jpg",
         "ingredients": [
           "550 g chicken breast",
           "120 ml olive oil",
@@ -21,7 +21,7 @@
         "recipe_id": 2,
         "recipe_name": "Spaghetti Carbonara",
         "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
-        "recipe_image": "../src/images/recepi2.jpg",
+        "recipe_image": "https://i.imghippo.com/files/rEZ7172zhw.jpg",
         "ingredients": [
           "400 g spaghetti",
           "200 g pancetta",
@@ -39,7 +39,7 @@
         "recipe_id": 3,
         "recipe_name": "Vegetable Stir-Fry",
         "short_description": "A quick and colorful stir-fry with a variety of fresh vegetables tossed in a savory sauce.",
-        "recipe_image": "../src/images/recepi3.jpg",
+        "recipe_image": "https://i.imghippo.com/files/gVMW6665gBc.jpg",
         "ingredients": [
           "200 g broccoli florets",
           "150 g bell peppers",
@@ -58,7 +58,7 @@
         "recipe_id": 4,
         "recipe_name": "Beef Tacos",
         "short_description": "Spicy and savory beef tacos served with fresh toppings in crispy taco shells.",
-        "recipe_image": "../src/images/recepi4.jpg",
+        "recipe_image": "https://i.imghippo.com/files/Koq1910tQA.jpg",
         "ingredients": [
           "500 g ground beef",
           "12 taco shells",
@@ -76,7 +76,7 @@
         "recipe_id": 5,
         "recipe_name": "Lemon Garlic Shrimp",
         "short_description": "Succulent shrimp sautéed in a buttery lemon garlic sauce.",
-        "recipe_image": "../src/images/recepi5.jpg",
+        "recipe_image": "https://i.imghippo.com/files/BfF7159qgw.jpg",
         "ingredients": [
           "400 g shrimp",
           "50 g butter",
@@ -94,7 +94,7 @@
         "recipe_id": 6,
         "recipe_name": "Chocolate Chip Cookies",
         "short_description": "Classic chewy chocolate chip cookies with a golden-brown exterior.",
-        "recipe_image": "../src/images/recepi6.jpg",
+        "recipe_image": "https://i.imghippo.com/files/aGOQ1665Wvk.jpg",
         "ingredients": [
           "225 g all-purpose flour",
           "170 g unsalted butter",

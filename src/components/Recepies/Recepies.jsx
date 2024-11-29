@@ -1,22 +1,22 @@
 import { useEffect, useState } from "react";
 import Recepi from "../Recepi/Recepi";
+import './Recepies1.css'
 
 const Recepies = ({handleRecepiCount,setCookes}) => {
     const [recepies,setRecepies] = useState([])
     //console.log(recepies)
     useEffect(()=>{
-      fetch('../../../public/recepies.json')
+      fetch('/recepies.json')
       .then(res=>res.json())
       .then(data=>setRecepies(data))
     },[])
 
     
-
     return (
-        <div className="  w-2/3">
+        <div className="md:w-3/6 ">
              
            {/* <h2>Recepies : {recepies.length} </h2> */}
-           <div className="grid md: grid-cols-2">
+           <div className="response">
            {
                 recepies.map(recepi=><Recepi 
                 setCookes={setCookes}
